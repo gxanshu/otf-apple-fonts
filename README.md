@@ -9,7 +9,7 @@ To install the package, run the following command:
 
 ## Credits
 
-This package was created by [Gx Anshu](https://github.com/gxanshu).
+This package was created by [Gx Anshu](https://github.com/gxanshu) and developed by our respected contributors.
 
 ## License
 

@@ -5,7 +5,7 @@ This package provides Apple fonts for Arch Linux. The fonts are installed in the
 Installation
 To install the package, run the following command:
 
-```yay -S ttf-apple-fonts```
+```yay -S otf-apple-fonts```
 
 ## Credits
 
